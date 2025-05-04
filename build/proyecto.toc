@@ -1,9 +1,9 @@
 \babel@toc {spanish}{}\relax 
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\large Análisis y gestión del Riesgo}{1}{section*.4}%
-\contentsline {subsection}{Matriz DOFA}{1}{section*.5}%
-\contentsline {subsubsection}{Debilidades}{1}{section*.6}%
-\contentsline {subsubsection}{Oportunidades}{1}{section*.7}%
-\contentsline {subsubsection}{Fortalezas}{1}{section*.8}%
-\contentsline {subsubsection}{Amenazas}{1}{section*.9}%
-\contentsline {subsection}{Priorización de Riesgos}{2}{section*.10}%
+\contentsline {section}{\large Análisis y gestión del Riesgo}{1}{section*.5}%
+\contentsline {subsection}{Matriz DOFA}{1}{section*.6}%
+\contentsline {subsubsection}{Debilidades}{1}{section*.7}%
+\contentsline {subsubsection}{Oportunidades}{1}{section*.8}%
+\contentsline {subsubsection}{Fortalezas}{1}{section*.9}%
+\contentsline {subsubsection}{Amenazas}{1}{section*.10}%
+\contentsline {subsection}{Priorización de Riesgos}{2}{section*.11}%
